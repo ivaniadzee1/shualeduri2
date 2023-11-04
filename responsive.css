@@ -1,0 +1,221 @@
+@media(width >= 768px){
+    .headerimg1{
+        display: none;
+    }
+    .bigo{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 437px;
+        height: 700px;
+        margin-left: -332px;
+    }
+   .headertxt{
+    margin-left: 343px;
+    margin-top: -248px;
+   }
+   .txtdivs{
+    margin-left: -343px;
+    margin-top: -381px;
+    padding-top: 221px;
+
+   }
+   .mod{
+    margin-top: 1212px;
+   }
+   .the{
+    padding-top: 23px;
+   }
+   .buttons{
+    padding-top: 50px;
+   }
+   .zal{
+    padding-top: 127px;
+    margin-left: 41px;
+   }
+   .gio, .down{
+    margin-left: -2510px;
+    margin-top: 234px;
+   }
+   .metro{
+    margin-top: -979px;
+    margin-left: 14px;
+    width: 445px;
+    height: 313px;
+   }
+   .vaxo{
+    display: none;
+
+   }
+   .ball{
+    display: flex;
+    margin-top: -688px;
+    margin-left: -333px;
+   }
+   .digomi{
+   margin-top: 10px;
+   margin-left: 10px;
+   }
+   .aleko{
+    display: none;
+   }
+   .kaci{
+    display: flex;
+    width: 445px;
+    height: 186px;
+   margin-left: 10px;
+   }
+   .kaki{ 
+    width: 828px;
+    height: 244px;
+    margin-left: -389px;
+    margin-top: 104px;
+   }
+   .lilo{
+    display: none;
+   }
+   .modern{
+    margin-left: 237px;
+    margin-top: -84px;
+   }
+   .linkes{
+   margin-top: -2px;
+   margin-left: 670px
+   }
+   .yuriko{
+    display: none;
+   }
+}
+@media(width >= 1440px){
+    .shavi{
+        display: flex;
+        width: 437px;
+        height: 700px;
+        background-color:  #151515;
+        margin-left: -1006px;
+       }
+       .bigo{
+        margin-top: 10px;
+        margin-left: 10px;
+        margin-top: -941px;
+        margin-left: -136px;
+       }
+       .lilo{
+        width: 450px;
+    height: 176px;
+    display: flex;
+    font-family: Big Shoulders Display;
+    font-size: 96px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-top: -1384px;
+    color: black;
+    margin-left: -709px;
+       }
+      
+       .lish{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       }
+       .lilo1{
+        width: 450px;
+        height: 176px;
+        display: flex;
+        font-family: Big Shoulders Display;
+        font-size: 96px;
+        font-weight: 900;
+        line-height: 88px;
+        letter-spacing: 0px;
+        text-align: left;
+        margin-top: -1225px;
+        color: black;
+        margin-left: -466px;
+       }
+       .lilo, .lilo1{
+        color: white;
+       }
+       .i{
+        display: flex;
+        color: black;
+        margin-left: -20px;
+       }
+       .l{
+        display: flex;
+        color: black;
+        margin-left: -2px;
+       }
+       .mod{
+        display: none;
+       }
+       .the{
+        margin-left: 65px;
+       }
+     .buttons{
+        margin-left: 115px;
+        }
+        .kaxa{
+            margin-left: 257px;
+        }
+        .txt1{
+            padding-top: 316px;
+            margin-left: -109px;
+        }
+        .zal{
+            margin-top: 322px;
+font-family: Big Shoulders Display;
+font-size: 96px;
+font-weight: 900;
+line-height: 88px;
+letter-spacing: 0px;
+text-align: left;
+        }
+        .taro{
+            margin-left: -102px;
+            font-family: Outfit;
+            font-size: 22px;
+            font-weight: 300;
+            line-height: 32px;
+            letter-spacing: 0px;
+            text-align: left;
+            
+        }
+        .tblzl{
+            display: none;
+        }
+        .bigzal{
+            width: 635px;
+height: 400px;
+
+
+           display:flex;
+           margin-top: 1px;
+           margin-left: 10px;
+        }
+        .ball{
+            margin-left: -400px;
+        }
+        .metro{
+            margin-left: -48px;
+    margin-top: -943px;
+        }
+        .kaci{
+            margin-left:-1px ;
+        }
+        .kaki{
+            width: 1440px;
+            margin-left: -707px;
+        }
+        .linkes{
+            margin-top: -2px;
+            margin-left: 1163px;
+        }
+        .yuriko{
+            display: flex ;
+        }
+        .kaci{
+            display: none;
+        }
+}

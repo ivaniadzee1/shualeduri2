@@ -1,0 +1,84 @@
+@media (width >= 768px){
+    .map2{
+        display: flex;
+        background-repeat: no-repeat;
+         width: 100%;
+         margin-left: -426px;
+    }
+    .head{
+        margin-left: -380px;
+    }
+    .nugo{
+        margin-left: 341px;
+        margin-top: -95px;
+    }
+    .our{
+        padding-top: 61px;
+        width: 233px;
+        height: 100px;
+        font-family: Big Shoulders Display;
+        font-size: 55px;
+        font-weight: 900;
+        line-height: 50px;
+        letter-spacing: 0px;
+        text-align: left;        
+    }
+    .king{
+        font-family: Big Shoulders Display;
+        font-size: 32px;
+        font-weight: 900;
+        line-height: 32px;
+        letter-spacing: 0px;
+        text-align: left;        
+    }
+    .new{
+        font-family: Outfit;
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 28px;
+        letter-spacing: 0px;
+        text-align: left;        
+    }
+    .our1{
+        font-family: Outfit;
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 28px;
+        letter-spacing: 0px;
+        text-align: left;        
+    }
+    footer{
+        height: 216px;
+    }
+    .zurab{
+        margin-left: 196px;
+        margin-top: -53px;
+    }
+    .linkes{
+        display: inline;
+        margin-left: 595px;
+        margin-top: -200px;
+    }
+}
+@media(width >= 1440px){
+    .map2{
+     display: none;
+    }
+    .none{
+        display: flex;
+
+        margin-left: -419px;
+    }  
+  .head{
+    margin-left: -900px;
+  }
+  .nugo{
+    margin-left: 650px;
+  }
+   .zurab{
+    margin-left: 650px;
+   }
+   .linkes{
+    margin-left: 1200px;
+   }
+}
